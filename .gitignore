@@ -1,0 +1,15 @@
+# Arquivos compactados
+*.zip
+*.rar
+*.7z
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
